@@ -1,0 +1,17 @@
+.nav {
+    grid-area: n;
+    
+    margin-right: 10px;
+    height: 2000px;
+    width: 290px;
+  
+    background-color: black;
+  }
+  
+	a {
+		color: white;
+	}
+
+	a.active {
+		color: gold;
+	}

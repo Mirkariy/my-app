@@ -1,0 +1,63 @@
+/* .content {
+    grid-area: c;
+  
+    width: 900px;
+  
+    background-color: red;
+  } */
+  
+  .img__for__content {
+    height: 200px;
+    width: 900px;
+  }
+  
+  .main__img {
+    height: 200px;
+    width: 900px;
+  }
+  
+  /* Account Info */
+  
+  .account {
+    display: grid;
+  
+    grid-template-columns: 150px 400px;
+  }
+  
+  .avatar {
+    width: 150px;
+    height: 150px;
+  
+    background-color: green;
+  }
+  
+  .avatar__img {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .person__info {
+    width: 400px;
+    height: 250px;
+  
+    background-color: indigo;
+  }
+  
+  .post__add {
+    width: 900px;
+    height: 100px;
+  
+    background-color: lawngreen;
+  }
+  
+  .post {
+    width: 900px;
+    height: 100%;
+  
+    background-color: lightcoral;
+  }
+
+  .autor-avatar {
+    width: 75px;
+    height: 75px;
+  }

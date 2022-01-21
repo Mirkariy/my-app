@@ -1,0 +1,54 @@
+/* Main__Chat */
+
+.wrap {
+  padding-left: 10px;
+}
+
+.Messages {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+.title {
+  margin-bottom: 20px;
+}
+
+/* ChatList */
+
+.Chat-List {
+  border-right: solid black;
+}
+
+.Chat-Owner {
+  width: 100%;
+  height: 50px;
+  padding-bottom: 10px;
+}
+
+.Chat-Owner__Avatar {
+  height: 50px;
+  width: 50px;
+}
+
+/* Dialogs */
+
+.MessagesList {
+ height: 310px;
+}
+
+.Chat {
+  width: 100%;
+}
+
+.Chat__message {
+  width: 100%;
+  height: 310px;
+  padding-left: 25px;
+  padding-bottom: 15px;
+}
+
+.messageInput {
+  height: 35px;
+  width: 540px;
+  margin-left: 25px;
+}
